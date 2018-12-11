@@ -1,2 +1,2 @@
 # smart-hotel
-2017 advancaed programming midterm project, using C programming language.
+2017 advanced programming midterm project
